@@ -1,0 +1,11 @@
+A quien sea que lea esto, este .txt espero pueda llegar a explicar de forma algo superficial 
+como es que se distribuye. A partir de ellos anotamos los datos en el programa "creacion de datos.py" 
+el cual genera esos datos en un .txt llamado "xy.txt" con un separador de ";" entre cada dato de "x" e "y". 
+Posterior a ello el archivo  "graficador.py" es lo que podria llegar a concibirse como la respuesta 
+al problema planteado.
+Aun esta en un estado primitivo capaz de recibir muchas mejoras, asi que no lo tomen como nada
+final, pero que puedan tener una idea como es que funciona el programa esta bien. 
+Ademas de ello, el archivo "ajuste_polinomico.png" es la imagen que se guarda a partir de 
+nuestros datos, la cual pueden ir analizando el comportamiento de la frecuencia a medida que se aumenta
+la masa en gramos. Esto principalmente para que puedan ir avanzando y teniendo una idea como hacerlo.
+Tengan buen dia ^^
